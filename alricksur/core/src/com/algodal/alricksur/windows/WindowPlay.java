@@ -14,16 +14,12 @@ public class WindowPlay extends Window {
 	
 	@Override
 	public void draw(Game g) {
-		if(g.done) {
-			test.draw(g);
-		}
+		test.draw(g);
 	}
 	
 	@Override
 	public void update(Game g) {
-		if(g.done) {
-			test.update(g);
-		}
+		test.update(g);
 	}
 }
 
