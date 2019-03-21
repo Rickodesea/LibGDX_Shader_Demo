@@ -7,3 +7,7 @@ concrete tutorial out there that shows how to use shaders for the specific purpo
 The core shader functionality is in the Game.java class.  In this example, shader is use for transition as the screens change.
 
 I hope all libgdx users find this useful.
+
+### scrapped
+
+This project has been scrapped and will not continue.
