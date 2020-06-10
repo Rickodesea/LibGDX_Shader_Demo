@@ -1,6 +1,6 @@
-# alricksur
+# LibGDX Shader Transition Demo
 
-This is a game I am working on.
+Demo developed for a game that was being worked on.
 
 The purpose of this repository is to provide an example of using shaders for transition.  At the time of making this there is no 
 concrete tutorial out there that shows how to use shaders for the specific purpose of transition.  Well this project does that.
@@ -8,6 +8,6 @@ The core shader functionality is in the Game.java class.  In this example, shade
 
 I hope all libgdx users find this useful.
 
-### scrapped
+### Scrapped
 
-This project has been scrapped and will not continue.
+This project is archived for viewing purposes.
