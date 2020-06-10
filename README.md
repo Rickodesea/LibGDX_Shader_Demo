@@ -1,4 +1,4 @@
-# LibGDX Shader Transition Demo
+# LibGDX Shader Transition Demo (formerly alricksur)
 
 Demo developed for a game that was being worked on.
 
